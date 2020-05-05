@@ -7,6 +7,6 @@ mv nginx4.log nginx4.log.back
 mv nginx5.log nginx5.log.back
 cd /home/suzen/source
 mv nginx* /home/suzen/destination/
-cd ..
+cd ...
 part=$(ls | egrep -o '[a-zA-Z0-9]{28}')
 echo $part

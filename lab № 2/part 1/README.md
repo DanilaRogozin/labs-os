@@ -19,3 +19,11 @@
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.7.png)
 - Скриншот 1.8 - результат настройки и установки LVM.
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.8.png)
+- Скриншот 1.9 - установка GRUB на первый диск (sda).
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.9.png)
+- Скриншот 1.10 - первая информация о дисках.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.10.png)
+- Скриншот 1.11 - первая информация о RAID.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.11.png)
+- Скриншот 1.12 - первая информация о pvs, vgs, lvs.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.12.png)

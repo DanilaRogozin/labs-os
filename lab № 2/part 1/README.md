@@ -7,3 +7,9 @@
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.1.png)
 - Скриншот 1.2 - первое разделение дисков.
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.2.png)
+- Скриншот 1.3 - указание места для RAID.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.3.png)
+- Скриншот 1.4 - настроиваем RAID.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.4.png)
+- Скриншот 1.5 - начало установки и настройки LVM.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.5.png)

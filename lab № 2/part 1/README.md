@@ -5,3 +5,5 @@
 - Создаем виртуальную машину с характеристиками : 1gb ram, 1 cpu, 2 hdd - (sdd1, ssd2), SATA контройлер настроен на 4 порта.
 - Скриншот 1.1 - показывает нам настройку разметки дисков.
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.1.png)
+- Скриншот 1.2 - первое разделение дисков.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.2.png)

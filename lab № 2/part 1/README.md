@@ -13,3 +13,9 @@
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.4.png)
 - Скриншот 1.5 - начало установки и настройки LVM.
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.5.png)
+- Скриншот 1.6 - середина настройки LVM.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.6.png)
+- Скриншот 1.7 - конечная настройка и установка LVM.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.7.png)
+- Скриншот 1.8 - результат настройки и установки LVM.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%201/1.8.png)

@@ -26,3 +26,15 @@
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.12.png)
 - Скриншот 3.13 - информация после добавления ssd5 в RAID и увеличения размеров на общих дисках.
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.13.png)
+- Скриншот 3.14 - размер sda(e)2=md127.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.14.png)
+- Скриншот 3.15 - размер VG увеличился.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.15.png)
+- Скриншот 3.16 - информация об увеличении размеров root и var.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.16.png)
+- Скриншот 3.17 - конечный результат работы с ssd.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.17.png)
+- Скриншот 3.18 - информация о дисках после создания логического тома.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.18.png)
+- Скриншот 3.19 - информация о дисках после форматирования разделов.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.19.png)

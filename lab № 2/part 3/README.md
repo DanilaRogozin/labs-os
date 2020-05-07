@@ -38,3 +38,13 @@
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.18.png)
 - Скриншот 3.19 - информация о дисках после форматирования разделов.
 ![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.19.png)
+- Скриншот 3.20 - информация о дисках после переформатирования var-логов. Image alt
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.20.png)
+- Скриншот 3.21 - изменение файла fstab.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.21.png)
+- Скриншот 3.22 - последняя проверка pvs, lvs, vgs.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.22.png)
+- Скриншот 3.23 - послежняя проверка и информация о дисках.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.23.png)
+- Скриншот 3.24 - последняя информация о RAID.
+![Image alt](https://github.com/galina-shimanskaya/labs-os/blob/master/lab%20№%202/part%203/3.24.png)
